@@ -7,7 +7,7 @@ This repository demonstrates the use of GitHub best practices for hosting open-s
 
 ## 📖 Project Overview
 This project provides a simple Python script to calculate **Simple Interest (SI)** using the formula:
-SI = (P × R × T) / 100
+Simple Interest (SI) = (P × R × T) / 100
 
 Where:  
 - **P** = Principal Amount  
